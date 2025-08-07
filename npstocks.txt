@@ -1,0 +1,138 @@
+File to be imported using AmiBroker ASCII importer and Formats/stocksandsec.format definition file
+Generated on 2025-08-07 23:13:58
+$MARKET 1,NEPSE
+ACLBSL,"Aarambha Chautari Laghubitta Bittya Sanstha Limited",Microfinance,Nepal Rastra Bank,1
+AMFI,"Arambha Microfinance Bittiya Sanstha Ltd.",Microfinance,Nepal Rastra Bank,1
+ACEDBL,"Ace Development Bank Ltd.",Development Banks,Nepal Rastra Bank,1
+AEFL,"Alpic Everest Finance Co. Ltd.",Finance,Nepal Rastra Bank,1
+ALDBL,"Alpine Development Bank Limited",Development Banks,Nepal Rastra Bank,1
+AKJCL,"Ankhu Khola Jalvidhyut Company Ltd",Hydro Power,Nepal Hydropower Board,1
+BBBLN,"Bagheshwori Development Bank Limited",Development Banks,Nepal Rastra Bank,1
+BOKL,"Bank of Kathmandu Ltd.",Commercial Banks,Nepal Rastra Bank,1
+BFC,"Best Finance Company Ltd.",Finance,Nepal Rastra Bank,1
+BBBL,"Bhrikuti Vikash Bank Limited",Development Banks,Nepal Rastra Bank,1
+BJM,"Biratnagar Jute Mills Limited",Manufacturing And Processing,Department of Industry,1
+BSL,"Birat Shoe Limited",Manufacturing And Processing,Department of Industry,1
+BBC,"Bishal Bazar Company Limited",Tradings,Department of Industry,1
+BNL,"Bottlers Nepal (Balaju) Limited",Manufacturing And Processing,Department of Industry,1
+BNT,"Bottlers Nepal (Terai) Limited",Manufacturing And Processing,Department of Industry,1
+BUDBL,"Business Universal Development Bank Ltd.",Development Banks,Nepal Rastra Bank,1
+BSM,"Butwal Spinning Mills Limited",Manufacturing And Processing,Department of Industry,1
+BPCL,"Butwal Power Company Limited",Hydro Power,Nepal Hydropower Board,1
+CBBL,"Chhimek Laghubitta Bittiya Sanstha Limited",Microfinance,Nepal Rastra Bank,1
+CHCL,"Chilime Hydropower Company Limited",Hydro Power,Nepal Hydropower Board,1
+CLI,"Citizen Life Insurance Company Limited",Life Insurance,Nepal Insurance Board,1
+CZBIL,"Citizens Bank International Limited",Commercial Banks,Nepal Rastra Bank,1
+CMBSL,"Civil Merchant Bittiya Santha Ltd.",Finance,Nepal Rastra Bank,1
+CTBNL,"Commerz and Trust Bank Nepal Ltd.",Commercial Banks,Nepal Rastra Bank,1
+DDBL,"Deprosc Laghubitta Bittiya Sanstha Limited",Microfinance,Nepal Rastra Bank,1
+EBL,"Everest Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+EIC,"Everest Insurance Co. Ltd.",Non Life Insurance,Nepal Insurance Board,1
+EDBL,"Excel Development Bank Ltd.",Development Banks,Nepal Rastra Bank,1
+FHL,"Fleur Himalayan Limited",Manufacturing And Processing,Department of Industry,1
+GDBL1,"Gandaki Bikas BankLimited",Development Banks,Nepal Rastra Bank,1
+GBBL,"Garima Bikas Bank Limited",Development Banks,Nepal Rastra Bank,1
+GRU,"Gorakhkali Rubber Udhyog Limited",Manufacturing And Processing,Department of Industry,1
+GRAND,"Grand Bank Nepal Limited",Commercial Banks,Nepal Rastra Bank,1
+GDBNL,"Gurkha Development Bank Limited",Development Banks,Nepal Rastra Bank,1
+GUFL,"Gurkhas Finance Ltd.",Finance,Nepal Rastra Bank,1
+HAMRO,"Hamro Bikas Bank Ltd.",Development Banks,Nepal Rastra Bank,1
+HBT,"Harisiddhi Brick And Tiles Limited",Manufacturing And Processing,Department of Industry,1
+HBL,"Himalayan Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+HEI,"Himalayan Everest Insurance Limited",Non Life Insurance,Nepal Insurance Board,1
+ICFC,"ICFC Finance Limited",Finance,Nepal Rastra Bank,1
+IGI,"IGI Prudential Insurance Limited",Non Life Insurance,Nepal Insurance Board,1
+JFL,"Janaki Finance Company Limited",Finance,Nepal Rastra Bank,1
+JEFL,"Jebils Finance Ltd.",Finance,Nepal Rastra Bank,1
+JOSHI,"Joshi Hydropower Development Company Ltd",Hydro Power,Nepal Hydropower Board,1
+JBBL,"Jyoti Bikas Bank Limited",Development Banks,Nepal Rastra Bank,1
+KBBL,"Kailash Bikas Bank Ltd.",Development Banks,Nepal Rastra Bank,1
+KBL,"Kumari Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+LSL,"Laxmi Sunrise Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+LSL,"Laxmi Sunrise Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+LICN,"Life Insurance Corporation (Nepal) Limited",Life Insurance,Nepal Insurance Board,1
+LUBL,"Lumbini Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+LFLC,"Lumbini Finance Ltd.",Finance,Nepal Rastra Bank,1
+LGIL,"Lumbini General Insurance Co. Ltd.",Non Life Insurance,Nepal Insurance Board,1
+MBL,"Machhapuchhre Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+MFL,"Maha Laxmi Finance Ltd.",Finance,Nepal Rastra Bank,1
+MLBL,"Mahalaxmi Bikas Bank Ltd.",Development Banks,Nepal Rastra Bank,1
+MEHL,"Manakamana Engineering Hydropower Limited",Hydro Power,Nepal Hydropower Board,1
+MMKJL,"Mathillo Mailun Khola Jalvidhyut Ltd.",Hydro Power,Nepal Hydropower Board,1
+MSM,"Morang Sugar Mills Limited",Manufacturing And Processing,Department of Industry,1
+NABIL,"Nabil Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+NBF1,"Nabil Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+ESC,"National Pro. And Eco. Dev. Centre",Others,N/A,1
+NLICL,"National Life Insurance Co. Ltd.",Life Insurance,Nepal Insurance Board,1
+NDFL,"Nava Durga Finance Co. Ltd.",Finance,Nepal Rastra Bank,1
+NIL,"Neco Insurance Limited",Non Life Insurance,Nepal Insurance Board,1
+NBB,"Nepal Bangladesh Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+NBFL,"Nepal Bangladesh Finance & Leasing Co. Ltd.",Finance,Nepal Rastra Bank,1
+NBCK,"Nepal Byapar Bikash Company(Koshi) Limited",Tradings,Department of Industry,1
+NCCB,"Nepal Credit And Commercial Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+NDB,"Nepal Development Bank Limited",Development Banks,Nepal Rastra Bank,1
+NFD,"Nepal Film Development Company Limited",Others,N/A,1
+NFS,"Nepal Finance Ltd.",Finance,Nepal Rastra Bank,1
+NHMF,"Nepal Housing & Merchant Finance Ltd.",Finance,Nepal Rastra Bank,1
+NHPC,"National Hydro Power Company Limited",Hydro Power,Nepal Hydropower Board,1
+NICL,"Nepal Insurance Co. Ltd.",Non Life Insurance,Nepal Insurance Board,1
+NIMB,"Nepal Investment Mega Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+NLIC,"NEPAL LIFE INSURANCE COMPANY LIMITED",Life Insurance,Nepal Insurance Board,1
+NLO,"Nepal Lube Oil Limited",Manufacturing And Processing,Department of Industry,1
+SBI,"Nepal SBI Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+NSM,"Nepal Share Markets Ltd.",Finance,Nepal Rastra Bank,1
+NTL,"Nepal Tading Limited",Tradings,Department of Industry,1
+NVG,"Nepal Vanaspati Ghee Udhyog Limited",Manufacturing And Processing,Department of Industry,1
+NWC,"Nepal Welfare Company Limited",Tradings,Department of Industry,1
+NIDC,"NIDC Development Bank Ltd.",Development Banks,Nepal Rastra Bank,1
+NCM,"NIDC Capital Markets Ltd.",Finance,Nepal Rastra Bank,1
+NICA,"NIC Asia Bank Ltd.",Commercial Banks,Nepal Rastra Bank,1
+NICGF,"NIC Asia Bank Ltd.",Commercial Banks,Nepal Rastra Bank,1
+NUBL,"Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",Microfinance,Nepal Rastra Bank,1
+NLG,"NLG Insurance Company Ltd.",Non Life Insurance,Nepal Insurance Board,1
+NMB,"NMB Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+NFL,"Narayani Finance Ltd.",Finance,Nepal Rastra Bank,1
+NNFC,"Narayani National Finance Limited",Finance,Nepal Rastra Bank,1
+NABBC,"Narayani Development Bank Limited",Development Banks,Nepal Rastra Bank,1
+OHL,"Oriental Hotels Limited",Hotels And Tourism,Ministry of Tourism,1
+PDBL,"Paschimanchal Bikash Bank Limited",Development Banks,Nepal Rastra Bank,1
+PFCL,"Peoples Finance Ltd.",Finance,Nepal Rastra Bank,1
+PFL,"Pokhara Finance Ltd.",Finance,Nepal Rastra Bank,1
+PRIN,"Prabhu Insurance Ltd.",Non Life Insurance,Nepal Insurance Board,1
+PICL,"Prudential Insurance Co. Ltd.",Non Life Insurance,Nepal Insurance Board,1
+RADHI,"Radhi Bidyut Company Ltd",Hydro Power,Nepal Hydropower Board,1
+RJM,"Raghupati Jute Mills Limited",Manufacturing And Processing,Department of Industry,1
+RBCL,"Rastriya Beema Company Limited",Non Life Insurance,Nepal Insurance Board,1
+RNLI,"Reliable Nepal Life Insurance Ltd",Life Insurance,Nepal Insurance Board,1
+RMDC,"RMDC Laghubitta Bittiya Sanstha Ltd.",Microfinance,Nepal Rastra Bank,1
+SALICO,"Sagarmatha Lumbini Insurance Co. Limited",Non Life Insurance,Nepal Insurance Board,1
+SBBLJ,"Sahayogi Bikas Bank Limited",Development Banks,Nepal Rastra Bank,1
+STC,"Salt Trading Corporation",Tradings,Department of Industry,1
+SANIMA,"Sanima Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+SAEF,"Sanima Equity Fund",Commercial Banks,Nepal Rastra Bank,1
+SETI,"Seti Finance Limited",Finance,Nepal Rastra Bank,1
+SICL,"Shikhar Insurance Co. Ltd.",Non Life Insurance,Nepal Insurance Board,1
+SBSL,"Shikhar Finance Limited",Finance,Nepal Rastra Bank,1
+SBPP,"Shree Bhrikuti Pulp And Paper Limited",Manufacturing And Processing,Department of Industry,1
+SBL,"Siddhartha Bank Limited",Commercial Banks,Nepal Rastra Bank,1
+SDBL,"Siddhartha Development Bank Ltd.",Development Banks,Nepal Rastra Bank,1
+SPIL,"Siddhartha Premier Insurance Limited",Non Life Insurance,Nepal Insurance Board,1
+SFL,"Siddharth Finance Ltd.",Finance,Nepal Rastra Bank,1
+SINDU,"Sindhu Bikash Bank Ltd",Development Banks,Nepal Rastra Bank,1
+SHL,"Soaltee Hotel Limited",Hotels And Tourism,Ministry of Tourism,1
+SCSL,"Sona Cement and Steel Pvt. Ltd.",Manufacturing And Processing,Department of Industry,1
+SCB,"Standard Chartered Bank Nepal Limited",Commercial Banks,Nepal Rastra Bank,1
+SNLI,"Sun Nepal Life Insurance Company Limited",Life Insurance,Nepal Insurance Board,1
+SJLIC,"SuryaJyoti Life Insurance Company Limited",Life Insurance,Nepal Insurance Board,1
+SDFL,"Suryadarshan Finance Company Limited",Finance,Nepal Rastra Bank,1
+SLBBL,"Swarojgar Laghubitta Bittiya Sanstha Ltd.",Microfinance,Nepal Rastra Bank,1
+SYFL,"Synergy Finance Ltd.",Finance,Nepal Rastra Bank,1
+TRH,"Taragaon Regency Hotel Limited",Hotels And Tourism,Ministry of Tourism,1
+TVCL,"Trishuli Jal Vidhyut Company Limited ",Hydro Power,Nepal Hydropower Board,1
+UBBL,"Udhyam Bikas Bank Limited",Development Banks,Nepal Rastra Bank,1
+UFCL,"Union Finance Co. Ltd.",Finance,Nepal Rastra Bank,1
+UAIL,"United Ajod Insurance Limited",Non Life Insurance,Nepal Insurance Board,1
+USLB,"Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",Microfinance,Nepal Rastra Bank,1
+ULHC,"Upper Lohore Khola Hydropower Company Limited",Hydro Power,Nepal Hydropower Board,1
+YHL,"Yak And Yeti Hotel Limited",Hotels And Tourism,Ministry of Tourism,1
+YFL,"Yeti Finance Ltd.",Finance,Nepal Rastra Bank,1
