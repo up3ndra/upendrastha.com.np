@@ -1,5 +1,5 @@
-File to be imported using AmiBroker ASCII importer and Formats/stocksandsec.format definition file
-Generated on 2025-08-07 23:13:58
+#File to be imported using AmiBroker ASCII importer and Formats/stocksandsec.format definition file
+#Generated on 2025-08-07 23:13:58
 $MARKET 1,NEPSE
 ACLBSL,"Aarambha Chautari Laghubitta Bittya Sanstha Limited",Microfinance,Nepal Rastra Bank,1
 AMFI,"Arambha Microfinance Bittiya Sanstha Ltd.",Microfinance,Nepal Rastra Bank,1
